@@ -85,3 +85,6 @@
 @@||app.bilibili.com^$important
 # 米家Iot
 @@||ot.io.mi.com^$important
+# 百度搜索小米
+@@||e.cn.miaozhen.com^
+@@||ecmb.bdimg.com^
