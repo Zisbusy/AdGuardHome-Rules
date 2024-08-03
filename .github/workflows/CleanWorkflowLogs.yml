@@ -1,0 +1,17 @@
+name: 'CleanWorkflowLogs'
+
+on:
+  schedule:
+  # 明天早上7点触发
+  - cron: '0 7 * * *'
+  # 手动触发事件
+  workflow_dispatch:
+
+jobs:
+  del_workflow:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Delete workflow runs
+        uses: GitRML/delete-workflow-runs@main
+        with:
+          retain_days: '3'
