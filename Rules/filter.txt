@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-08-15T06:01:15.276Z
+! Last modified: 2024-08-16T06:01:09.974Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -22,6 +22,8 @@
 !
 !
 !
+||wpwserawnuwq.com^
+||zbysshlpgvl.com^
 ||ravm.tv^
 ||hjjpsotb.com^
 ||zoustara.net^
@@ -3422,6 +3424,7 @@ vkcdnservice.appspot.com^
 ||adsensecamp.com^
 ||adsensecustomsearchads.com^
 ||adser.io^
+||adservb.com^
 ||adserve.ph^
 ||adserved.net^
 ||adserverplus.com^
@@ -9314,6 +9317,7 @@ vkcdnservice.appspot.com^
 ||craharice.com^
 ||crajeon.com^
 ||crakbanner.com^
+||crakedquartin.com^
 ||crampcrossroadbaptize.com^
 ||crampincompetent.com^
 ||cranebecomingwindfall.com^
@@ -13450,6 +13454,7 @@ vkcdnservice.appspot.com^
 ||floralrichardapprentice.com^
 ||floraopinionsome.com^
 ||floristgathering.com^
+||floroonwhun.com^
 ||flossdiversebates.com^
 ||flotsanrantan.com^
 ||flounderhomemade.com^
@@ -14062,6 +14067,7 @@ vkcdnservice.appspot.com^
 ||fuskoqvoaprjr.com^
 ||fusoidactuate.com^
 ||fussy-highway.pro^
+||futharcconny.shop^
 ||futileharrystephen.com^
 ||futilepreposterous.com^
 ||futilereposerefreshments.com^
@@ -15544,6 +15550,7 @@ vkcdnservice.appspot.com^
 ||halftimestarring.com^
 ||halfwayscratchcoupon.com^
 ||halileo.com^
+||hallanjerbil.com^
 ||hallucinatecompute.com^
 ||hallucinatediploma.com^
 ||hallucinatepromise.com^
@@ -16766,6 +16773,7 @@ vkcdnservice.appspot.com^
 ||idswinpole.casa^
 ||idthecharityc.info^
 ||idydlesswale.info^
+||idyllteapots.com^
 ||ie3wisa4.com^
 ||ie8eamus.com^
 ||iebsmqevw.com^
@@ -24465,6 +24473,7 @@ vkcdnservice.appspot.com^
 ||panisicelectre.top^
 ||pannamdashee.com^
 ||pannumregnal.com^
+||panowiesnarled.click^
 ||panoz.xyz^
 ||panpant.xyz^
 ||pansymerbaby.com^
@@ -27359,6 +27368,7 @@ vkcdnservice.appspot.com^
 ||rashlyblowfly.com^
 ||raspberryamusingbroker.com^
 ||raspedexsculp.com^
+||rasurescaribou.com^
 ||ratcovertlicence.com^
 ||ratebilaterdea.com^
 ||ratesatrociousplans.com^
@@ -27464,6 +27474,7 @@ vkcdnservice.appspot.com^
 ||readly-renterval.icu^
 ||readserv.com^
 ||readspokesman.com^
+||readsubsequentlyspecimen.com^
 ||readyblossomsuccesses.com^
 ||reagend.com^
 ||reager30.com^
@@ -28181,6 +28192,7 @@ vkcdnservice.appspot.com^
 ||ridseechiph.com^
 ||ridwmorfitu.com^
 ||rieversfidate.com^
+||riffingwiener.com^
 ||riffledyanked.click^
 ||riflesurfing.xyz^
 ||riftharp.com^
@@ -29962,6 +29974,7 @@ vkcdnservice.appspot.com^
 ||skiingwights.com^
 ||skilfuljealousygeoffrey.com^
 ||skilfulrussian.com^
+||skilldicier.com^
 ||skilleadservices.com^
 ||skilledskillemergency.com^
 ||skilledtables.com^
@@ -36840,6 +36853,7 @@ vkcdnservice.appspot.com^
 ||zaihxti.com^
 ||zaikasoatie.xyz^
 ||zailoanoy.com^
+||zaipousu.net^
 ||zaistaug.net^
 ||zajukrib.net^
 ||zaltaumi.net^
@@ -41262,6 +41276,11 @@ vkcdnservice.appspot.com^
 !
 !
 !
+||collector-pxebumdlwe.px-cloud.net^
+||collector-pxebumdlwe.px-cdn.net^
+||s2s.adjust.com^
+||view.adjust.com^
+||engagements.appsflyer.com^
 ||pageview.click^
 ||viaklera.com^
 ||pixel-*.convertagain.net^
@@ -52679,7 +52698,6 @@ inapps.appsflyersdk.com^
 ||mbadv.nan.co.jp^
 ||creative.live.tktube.com^
 ||ads.world-fusigi.net^
-||ad.inter-edu.com^
 ||ad.eloan.co.jp^
 ||ad.abema.io^
 ||ad-hatena.com^
@@ -59916,10 +59934,21 @@ inapps.appsflyersdk.com^
 ||121.204.246.*.gif
 ||38.33.15.*.gif
 ||67.21.92.*.gif
+||nmtcxz.xyz^
+||doujs07.shop^
+||izqeyo.xyz^
+||shbzigs.cn^
+||wrutvnce.top^
+||uhmcjdc.icu^
+||npbtnl.xyz^
+||ljzcawea.icu^
+||lumnxiel.top^
 ||wnstug.xyz^
 ||shbzhkj.cn^
 ||jrjtibez.icu^
 ||bowoprf.icu^
+||oumnxiek.top^
+||erutvncw.top^
 ||pxqqytk.icu^
 ||dshjbn.xyz^
 ||shbzjkj.cn^
@@ -64538,7 +64567,6 @@ inapps.appsflyersdk.com^
 ||cdnjs.z-face.cn^
 ||cee1.iteye.com^
 ||chong-wu.net^
-||chunyuqiufeng.com^
 ||ckg.vipyl.com^
 ||classic.39health.com^
 ||cm.baidu.com^
