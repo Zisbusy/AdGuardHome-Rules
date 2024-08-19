@@ -19,7 +19,3 @@
 ||kmr.mjnbrt.xyz^$important
 ||kmmber.jmnwafa.xyz^$important
 ||hnr.svdpgmt.cn^$important
-# 禁止B站使用 IPV6
-||bilibili.com^$dnstype=AAAA
-||bilivideo.com^$dnstype=AAAA
-||biliapi.net^$dnstype=AAAA
