@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-09-08T06:01:10.260Z
+! Last modified: 2024-09-09T06:01:14.575Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -3079,7 +3079,6 @@ vkcdnservice.appspot.com^
 ||adsrv.me^
 ||adsrv.wtf^
 ||adstarget.net^
-||adstargets.com^
 ||adstean.com^
 ||adstico.io^
 ||adstook.com^
@@ -3414,6 +3413,7 @@ vkcdnservice.appspot.com^
 ||afvwwjcplvq.com^
 ||afwpc.com^
 ||afxjwyg.com^
+||afy.agency^
 ||afywhecpi.com^
 ||agabreloomr.com^
 ||agacelebir.com^
@@ -10194,6 +10194,7 @@ vkcdnservice.appspot.com^
 ||diguver.com^
 ||digyniahuffle.com^
 ||diingsinspiri.com^
+||diixqvrpoqs.com^
 ||dikeaxillas.com^
 ||dikkoplida.cam^
 ||diktatslopseed.com^
@@ -21835,6 +21836,7 @@ vkcdnservice.appspot.com^
 ||murkybrashly.com^
 ||murkymouse.online^
 ||murreyequate.com^
+||murtbgab.com^
 ||muscatscurls.click^
 ||muscledarcysilly.com^
 ||musclehaulse.top^
@@ -38020,6 +38022,7 @@ vkcdnservice.appspot.com^
 ||adscendmedia.com^
 ||adscout.io^
 ||adscpm.net^
+||adsenix.com^
 ||adserve.com^
 ||adservingfactory.com^
 ||adservme.com^
@@ -38045,6 +38048,7 @@ vkcdnservice.appspot.com^
 ||adsrvmedia.com^
 ||adsrvmedia.net^
 ||adstargeting.com^
+||adstargets.com^
 ||adstatic.com^
 ||adsterra.com^
 ||adsterratech.com^
@@ -39098,10 +39102,12 @@ vkcdnservice.appspot.com^
 ||0c0b6e3f.xyz^
 ||0d785fd7.xyz^
 ||10523745.xyz^
+||10753990.xyz^
 ||11152646.xyz^
 ||1116c5.xyz^
 ||11c7a3.xyz^
 ||1350c3.xyz^
+||15272973.xyz^
 ||156fd4.xyz^
 ||15752525.xyz^
 ||164de830.live^
@@ -39181,6 +39187,7 @@ vkcdnservice.appspot.com^
 ||7fc8.site^
 ||814272c4.xyz^
 ||83887336.xyz^
+||84631949.xyz^
 ||88129513.xyz^
 ||88545539.xyz^
 ||89263907.xyz^
@@ -39311,9 +39318,11 @@ vkcdnservice.appspot.com^
 ||1208344341.rsc.cdn77.org^
 ||1363394706.rsc.cdn77.org^
 ||1437953666.rsc.cdn77.org^
+||1450691516.rsc.cdn77.org^
 ||1529462937.rsc.cdn77.org^
 ||1548164934.rsc.cdn77.org^
 ||1588341617.rsc.cdn77.org^
+||1607162747.rsc.cdn77.org^
 ||1675450967.rsc.cdn77.org^
 ||1736253261.rsc.cdn77.org^
 ||1918837748.rsc.cdn77.org^
@@ -41748,6 +41757,7 @@ vkcdnservice.appspot.com^
 !
 !
 !
+||events.baselime.io^
 ||trackdesk.com^
 ||adlc-exchange.toast.com^
 ||joinmassive.com^
@@ -45483,6 +45493,8 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||a-da.invideo.io^
+||pixel.clutter.com^
 ||log.bloodppressure.info^
 ||log.pdfreaders.net^
 ||track2.tprg.ru^
@@ -60519,6 +60531,16 @@ inapps.appsflyersdk.com^
 ||geewdashb3.fun^
 ||ljbrbz.xyz^
 ||mrutvncx.top^
+||dsdsg44.fun^
+||uuajq.top^
+||ttdpxh.xyz^
+||pjcijbv.icu^
+||yxamkm.xyz^
+||gessdashb6.fun^
+||fq04.shop^
+||jy06.shop^
+||rewrwrt4.fun^
+||poiejdhmkjcnd.top^
 ||azenco.xyz^
 ||g11edashb1.fun^
 ||lzzqfj.xyz^
