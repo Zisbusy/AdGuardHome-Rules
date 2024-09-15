@@ -88,6 +88,3 @@
 # 百度搜索小米
 @@||e.cn.miaozhen.com^$important
 @@||ecmb.bdimg.com^$important
-# 小米系统
-@@||tracking.miui.com^$important
-
