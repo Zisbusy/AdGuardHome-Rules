@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-09-14T06:01:10.613Z
+! Last modified: 2024-09-15T06:01:27.268Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -1904,6 +1904,7 @@ vkcdnservice.appspot.com^
 ||44ffd27303.com^
 ||452tapgn.de^
 ||453130fa9e.com^
+||45cb7b8453.com^
 ||45f2a90583.com^
 ||46186911.vtt^
 ||46243b6252.com^
@@ -2529,6 +2530,7 @@ vkcdnservice.appspot.com^
 ||abwlrooszor.com^
 ||abyamaskor.com^
 ||abyocawlfe.com^
+||abzaligtwd.com^
 ||abzjkaridcit.com^
 ||ac35e1ff43.com^
 ||ac6hdk1js.com^
@@ -2973,7 +2975,6 @@ vkcdnservice.appspot.com^
 ||adqit.com^
 ||adqongwuxvav.com^
 ||adquery.io^
-||adquet.com^
 ||adrcdn.com^
 ||adreadytractions.com^
 ||adrealclick.com^
@@ -8819,6 +8820,7 @@ vkcdnservice.appspot.com^
 ||conventforgotten.com^
 ||conventional-nurse.pro^
 ||conventionalrestaurant.com^
+||conventionalsecond.pro^
 ||convers.link^
 ||conversationwaspqueer.com^
 ||convertedbumperbiological.com^
@@ -12424,6 +12426,7 @@ vkcdnservice.appspot.com^
 ||expressingblossomjudicious.com^
 ||expressproducer.com^
 ||expulsionfluffysea.com^
+||exqbondtwitvj.com^
 ||exquisitefundlocations.com^
 ||exquisiteseptember.com^
 ||exrtbsrv.com^
@@ -14345,6 +14348,7 @@ vkcdnservice.appspot.com^
 ||ggvhbnkfc.com^
 ||ggwifobvx.com^
 ||ggxcoez.com^
+||ggxdzrvo.com^
 ||ggxyyalrj.com^
 ||ggzckmlts.com^
 ||ggzkgfe.com^
@@ -18655,6 +18659,7 @@ vkcdnservice.appspot.com^
 ||kdyxxkcd.com^
 ||keajs.com^
 ||keawmrohgxtl.com^
+||kebeckirgon.net^
 ||kecwhlsr.com^
 ||kedasensiblem.info^
 ||kedasensiblemot.com^
@@ -18862,6 +18867,7 @@ vkcdnservice.appspot.com^
 ||kjjbgclciiay.xyz^
 ||kjjvpwvyon.com^
 ||kjklisbcab.com^
+||kjkulnpfdhn.com^
 ||kjlmoxpnst.com^
 ||kjmfjwhlrhmmtq.com^
 ||kjmrtfpiaq.com^
@@ -23976,6 +23982,7 @@ vkcdnservice.appspot.com^
 ||oqcrqirncna.xyz^
 ||oqddkgixmqhovv.xyz^
 ||oqeazohx.com^
+||oqejupqb.xyz^
 ||oqelpqoyyz.com^
 ||oqfrudzatovc.com
 ||oqhbykhlt.com^
@@ -24049,6 +24056,7 @@ vkcdnservice.appspot.com^
 ||origunix.com^
 ||orisow.com^
 ||orjfun.com^
+||orjmtknm.com^
 ||orjohmpkq.com^
 ||orlandowaggons.com^
 ||orldwhoisquite.org^
@@ -24119,6 +24127,7 @@ vkcdnservice.appspot.com^
 ||otarbadvnmrap.com^
 ||otbuzvqq8fm5.com^
 ||otdalxhhiah.com^
+||otekmnyfcv.com^
 ||otfiqdmohyhywj.com^
 ||othdgemanow.com^
 ||otherofherlittl.com^
@@ -25002,6 +25011,7 @@ vkcdnservice.appspot.com^
 ||penuchefirms.com^
 ||peohara.com^
 ||peopleshouldthin.com^
+||peospjryrzxuyb.com^
 ||pepapigg.xyz^
 ||pepepush.net^
 ||pepiggies.xyz^
@@ -27260,6 +27270,7 @@ vkcdnservice.appspot.com^
 ||qtuxulczymu.com^
 ||qtuzpoopwv.com^
 ||quacktypist.com^
+||quackupsilon.com^
 ||quagfa.com^
 ||quailnude.com^
 ||quaint-escape.pro^
@@ -27428,6 +27439,7 @@ vkcdnservice.appspot.com^
 ||qzcjehp.com^
 ||qzdmvwewzxzzze.com^
 ||qzesmjv.com^
+||qzetnversitym.com^
 ||qzkjkiexmsyv.com^
 ||qzmqgmlrbdcsiv.com^
 ||qzsgudj.com^
@@ -29006,6 +29018,7 @@ vkcdnservice.appspot.com^
 ||ruwfempxgwry.xyz^
 ||ruwookri.xyz^
 ||ruxgqemwywx.com^
+||ruzotchaufu.xyz^
 ||ruzxzebrupa.com^
 ||rvddfchkj.xyz^
 ||rvetreyu.net^
@@ -31450,6 +31463,7 @@ vkcdnservice.appspot.com^
 ||strodefat.com^
 ||strodemorallyhump.com^
 ||strollfondnesssurround.com^
+||stronepurrel.shop^
 ||strongestconvenient.com^
 ||strongesthaste.com^
 ||strongesthissblackout.com^
@@ -31549,6 +31563,7 @@ vkcdnservice.appspot.com^
 ||substantialequilibrium.com^
 ||substantialhound.com^
 ||subsultfidgety.click^
+||subtle-give.pro^
 ||subtractillfeminine.com^
 ||subtractrefused.com^
 ||suburbgetconsole.com^
@@ -32070,6 +32085,7 @@ vkcdnservice.appspot.com^
 ||tanivanprevented.com^
 ||tankiuz.xyz^
 ||tantisnits.top^
+||taosiz.xyz^
 ||taovgsy.com^
 ||taoyinbiacid.com^
 ||taozgpkjzpdtgr.com^
@@ -32263,6 +32279,7 @@ vkcdnservice.appspot.com^
 ||tellysetback.com^
 ||telwrite.com^
 ||temachaumble.top^
+||temgthropositea.com^
 ||temksrtd.net^
 ||tempbugs.com^
 ||tempeorek.org^
@@ -33763,6 +33780,7 @@ vkcdnservice.appspot.com^
 ||udraokrou.com^
 ||udtropary.top^
 ||uduhytyllobm.com^
+||uduxztwig.com^
 ||udzpel.com^
 ||uecppuciocadi.com^
 ||uedvxswwfub.com^
@@ -34606,6 +34624,7 @@ vkcdnservice.appspot.com^
 ||vax-boost.com^
 ||vax-now.com^
 ||vaxoovos.net^
+||vazshojt.com^
 ||vazypteke.pro^
 ||vbhuivr.com^
 ||vbijjrg.com^
@@ -34681,6 +34700,7 @@ vkcdnservice.appspot.com^
 ||vempozah.net^
 ||vendigamus.com^
 ||vendimob.pl^
+||vendingboatsunbutton.com^
 ||veneeringextremely.com^
 ||veneeringperfect.com^
 ||venetrigni.com^
@@ -35061,6 +35081,7 @@ vkcdnservice.appspot.com^
 ||vlry5l4j5gbn.com^
 ||vltjnmkps.xyz^
 ||vlvbyqgjqj.com^
+||vm8lm1vp.xyz^
 ||vmbcdprc.com^
 ||vmbgoblxpl.com^
 ||vmbuxmdscncv.com^
@@ -35998,6 +36019,7 @@ vkcdnservice.appspot.com^
 ||winfulelle.top^
 ||wingads.com^
 ||wingerssetiger.com^
+||wingjav11.fun^
 ||wingoodprize.life^
 ||wingselastic.com^
 ||wingstoesassemble.com^
@@ -39322,6 +39344,7 @@ vkcdnservice.appspot.com^
 ||74142961.xyz^
 ||75690049.xyz^
 ||7608d5.xyz^
+||77886044.xyz^
 ||7841ffda.xyz^
 ||78b78ff8.xyz^
 ||7ca989e1.xyz^
@@ -39658,6 +39681,7 @@ vkcdnservice.appspot.com^
 ||vv.7vid.net^
 ||webapps.leasing.com^
 ||weby.aaas.org^
+||whatfinger.com^
 ||wheelify.cartzy.com^
 ||widget.golfscape.com^
 ||widget.searchschoolsnetwork.com^
@@ -55308,9 +55332,9 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 06 Sep 2024 10:32 UTC+7
-! Version: 2409061032
-! Blocked: 920 rules
+! Last modified: 14 Sep 2024 17:42 UTC+7
+! Version: 2409141742
+! Blocked: 922 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -55786,6 +55810,7 @@ inapps.appsflyersdk.com^
 ||analytics.digi8.vn^
 ||analytics.evgcdn.net^
 ||analytics.evn.com.vn^
+||analytics.explus.vn^
 ||analytics.fsoft.com.vn^
 ||analytics.gotama.link^
 ||analytics.hapo.vn^
@@ -55839,6 +55864,7 @@ inapps.appsflyersdk.com^
 ||cdn.api-connect.io^
 ||cdn.qc24h.com^
 ||cdn2.cache.vn^
+||cdptracker.hocmai.com.vn^
 ||ch6p2aj2gh8zy5cm0px9ow7aj3tmzhtk6lzx2ch9xj7gx2jq1cj8v4jklz6b.me^
 ||chiasephim.xyz^
 ||click.vieon.vn^
@@ -56169,9 +56195,9 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 06 Sep 2024 10:33 UTC+7
-! Version: 2409061033
-! Blocked: 4,576 rules
+! Last modified: 14 Sep 2024 17:42 UTC+7
+! Version: 2409141742
+! Blocked: 4,578 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -56556,6 +56582,7 @@ inapps.appsflyersdk.com^
 ||chuyentienquocte242.weebly.com^
 ||chuyentienquoctenhanh.vercel.app^
 ||chuyentienvn.weebly.com^
+||cicfbo.yt-hgs.de^
 ||cicqdaqtrws.info^
 ||citi-vietnam.com^
 ||citivay.org^
@@ -58382,6 +58409,7 @@ inapps.appsflyersdk.com^
 ||pwsk88.com^
 ||qjc2vo.cyou^
 ||qq8788viet.com^
+||qqwyihwm.thjen.tech^
 ||qrsg11.com^
 ||qua-tang.vn^
 ||quaeventlienminh.weebly.com^
@@ -60643,6 +60671,12 @@ inapps.appsflyersdk.com^
 ||121.204.246.*.gif
 ||38.33.15.*.gif
 ||67.21.92.*.gif
+||hahaql.top^
+||yiucfif.icu^
+||vcxv73.fun^
+||arojgi.xyz^
+||ewqws55.fun^
+||edickew.top^
 ||gkeolwi.icu^
 ||ofqvca.xyz^
 ||vcxv787.fun^
@@ -60652,6 +60686,7 @@ inapps.appsflyersdk.com^
 ||3625ggtp1.com^
 ||kaiyuantp.vip^
 ||sdickeb.top^
+||drtrs55.fun^
 ||cgskys.xyz^
 ||nroeoxk.icu^
 ||gdd08.com^
@@ -65836,6 +65871,7 @@ analytics-*.aasaam.com
 ||analytics.jeldnews.com^
 
 ||sentry.virgool.io^
+||countly.virgool.io^
 
 # https://github.com/MasterKia/PersianBlocker/issues/121
 ||websocket.varandaz.com^
