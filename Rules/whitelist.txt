@@ -88,3 +88,6 @@
 # 百度搜索小米
 @@||e.cn.miaozhen.com^$important
 @@||ecmb.bdimg.com^$important
+# MIUI 骚扰拦截
+@@||api.sec.miui.com^$important
+@@||api.miui.security.xiaomi.com^$important
