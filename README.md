@@ -23,14 +23,14 @@ https://purge.jsdelivr.net/gh/Zisbusy/AdGuardHome-Rules@main/Rules/rules.txt
 
 ## DNS 黑名单
 AdGuard DNS filter    
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/Zisbusy/AdGuardHome-Rules/main/Rules/filter.txt    
+https://ghp.ci/https://raw.githubusercontent.com/Zisbusy/AdGuardHome-Rules/main/Rules/filter.txt    
 CHN: anti-AD    
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/Zisbusy/AdGuardHome-Rules/main/Rules/easylist.txt    
+https://ghp.ci/https://raw.githubusercontent.com/Zisbusy/AdGuardHome-Rules/main/Rules/easylist.txt    
 Rules (上面两个规则的合并去重 - 实验)    
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/Zisbusy/AdGuardHome-Rules/main/Rules/rules.txt    
+https://ghp.ci/https://raw.githubusercontent.com/Zisbusy/AdGuardHome-Rules/main/Rules/rules.txt    
 黑名单    
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/Zisbusy/AdGuardHome-Rules/main/Rules/blacklist.txt    
+https://ghp.ci/https://raw.githubusercontent.com/Zisbusy/AdGuardHome-Rules/main/Rules/blacklist.txt    
 
 ## DNS 白名单
 白名单    
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/Zisbusy/AdGuardHome-Rules/main/Rules/whitelist.txt    
+https://ghp.ci/https://raw.githubusercontent.com/Zisbusy/AdGuardHome-Rules/main/Rules/whitelist.txt    
