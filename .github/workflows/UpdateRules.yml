@@ -32,9 +32,9 @@ jobs:
 
       - name: Run application
         run: |
+          cd RuleValidator
           ./RuleValidator
           rm -rf RuleValidator
-          cd ../
           
       - name: Commit and push
         env:
