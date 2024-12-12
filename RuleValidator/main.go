@@ -75,10 +75,10 @@ func writeRulesToFile(filename string, rules []string) error {
 
 func main() {
 	// 规则文件
-	filePath1 := "Rules/easylist.txt"
-	filePath2 := "Rules/filter.txt"
+	filePath1 := "../Rules/easylist.txt"
+	filePath2 := "../Rules/filter.txt"
 	// 输出文件
-	outputFilePath := "Rules/rules.txt"
+	outputFilePath := "../Rules/rules.txt"
 
 	// 从文件中读取ADG过滤规则
 	fmt.Println("开始读取规则文件...")
