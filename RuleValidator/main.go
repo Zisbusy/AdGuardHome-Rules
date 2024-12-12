@@ -59,8 +59,12 @@ func writeRulesToFile(filename string, rules []string) error {
 
 	writer := bufio.NewWriter(file)
 
+	// 获取东八区当前时间和规则数量
+	loc, _ := time.LoadLocation("Asia/Shanghai")
+	timestamp := time.Now().In(loc).Format("2006-01-02 15:04:05")
+
 	// 添加注释头部
-	header := fmt.Sprintf("! Title: AdGuard DNS filter & CHN: anti-AD\n! Last modified: %s\n! Total lines: %d\n", time.Now().Format("2006-01-02 15:04:05"), len(rules))
+	header := fmt.Sprintf("! Title: AdGuard DNS filter & CHN: anti-AD\n! Last modified: %s\n! Total lines: %d\n", timestamp, len(rules))
 	_, err = writer.WriteString(header)
 	if err != nil {
 		return err
