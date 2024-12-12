@@ -57,6 +57,15 @@ func writeRulesToFile(filename string, rules []string) error {
 	defer file.Close()
 
 	writer := bufio.NewWriter(file)
+
+	// 添加注释头部
+	header := fmt.Sprintf("! Title: AdGuard DNS filter & CHN: anti-AD\n! Last modified: %s\n! Total lines: %d\n", time.Now().Format("2006-01-02 15:04:05"), len(rules))
+	_, err = writer.WriteString(header)
+	if err != nil {
+		return err
+	}
+
+	// 写入规则
 	for _, rule := range rules {
 		_, err := writer.WriteString(rule + "\n")
 		if err != nil {
