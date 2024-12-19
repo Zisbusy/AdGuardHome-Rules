@@ -7,11 +7,6 @@ https://raw.githubusercontent.com/Zisbusy/AdGuardHome-Rules/main/Rules/whitelist
 https://raw.githubusercontent.com/Zisbusy/AdGuardHome-Rules/main/Rules/blacklist.txt    
 https://raw.githubusercontent.com/Zisbusy/AdGuardHome-Rules/main/Rules/rules.txt    
 
-Git镜像地址：    
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/Zisbusy/AdGuardHome-Rules/main/Rules/whitelist.txt    
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/Zisbusy/AdGuardHome-Rules/main/Rules/blacklist.txt    
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/Zisbusy/AdGuardHome-Rules/main/Rules/rules.txt    
-
 CDN地址：    
 https://cdn.jsdelivr.net/gh/Zisbusy/AdGuardHome-Rules@main/Rules/whitelist.txt    
 https://cdn.jsdelivr.net/gh/Zisbusy/AdGuardHome-Rules@main/Rules/blacklist.txt    
