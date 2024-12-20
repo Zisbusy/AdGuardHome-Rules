@@ -23,9 +23,12 @@ CHN: anti-AD
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/Zisbusy/AdGuardHome-Rules/main/Rules/easylist.txt    
 Rules (上面两个规则的合并去重 - 实验)    
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/Zisbusy/AdGuardHome-Rules/main/Rules/rules.txt    
-黑名单    
+Blacklist    
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/Zisbusy/AdGuardHome-Rules/main/Rules/blacklist.txt    
 
+## DNS 白名单
+Whitelist    
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/Zisbusy/AdGuardHome-Rules/main/Rules/whitelist.txt    
 
 ## DNS 黑名单
 AdGuard DNS filter    
@@ -34,7 +37,7 @@ CHN: anti-AD
 https://ghgo.xyz/https://raw.githubusercontent.com/Zisbusy/AdGuardHome-Rules/main/Rules/easylist.txt    
 Rules (上面两个规则的合并去重 - 实验)    
 https://ghgo.xyz/https://raw.githubusercontent.com/Zisbusy/AdGuardHome-Rules/main/Rules/rules.txt    
-黑名单    
+Blacklist    
 https://ghgo.xyz/https://raw.githubusercontent.com/Zisbusy/AdGuardHome-Rules/main/Rules/blacklist.txt    
 
 ## DNS 白名单
