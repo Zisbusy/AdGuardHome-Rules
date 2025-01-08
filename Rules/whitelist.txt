@@ -77,8 +77,6 @@
 @@||id6.me^$important
 # 中国移动网盘-活动页面
 @@||ad.mcloud.139.com^$important
-# 取消屏蔽 apple 的所有子域名
-@@||apple.com^$important
 # 电信一键登录
 @@||waphn.189.cn^$important
 # bilibili
