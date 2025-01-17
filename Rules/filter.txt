@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-01-16T06:01:20.436Z
+! Last modified: 2025-01-17T06:01:19.208Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -11,6 +11,19 @@
 ! Source name: AdGuard Base filter ad servers
 ! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/adservers.txt
 !
+!
+! This section contains the list of third-party advertising networks domains.
+! Note, that we only put rules that block full domains here and not URL parts (there's `general_url.txt` for that). Also, it must be domains that are used in a third-party context.
+! The rules with hints are at the end of file.
+!
+! Good: ||doubleclick.net^$third-party
+! Bad: /banner.jpg (should be in general_url.txt)
+! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
+!
+!
+!
+||pinco225.win^
+||reachableads-av.*.amazonaws.com^
 ||news.jennydanny.com^
 ||u57.muzikguide.com^
 ||9pub.io^
@@ -5282,6 +5295,7 @@ vkcdnservice.appspot.com^
 ||bitx.tv^
 ||biunialpawnie.top^
 ||biuskye.com^
+||biuyuximbrutr.com^
 ||bivos.xyz^
 ||biwipuque.com^
 ||bizographics.com^
@@ -7788,6 +7802,7 @@ vkcdnservice.appspot.com^
 ||ctsdwm.com^
 ||ctubhxbaew.com^
 ||ctvnmxl.com^
+||ctwmcd.com^
 ||cubchillysail.com^
 ||cubeuptownpert.com^
 ||cubiclerunner.com^
@@ -9464,6 +9479,7 @@ vkcdnservice.appspot.com^
 ||edtheparllase.com^
 ||edtotigainare.info^
 ||edttmar.com^
+||edttwm.com^
 ||edu-lib.com^
 ||edua29146y.com^
 ||educatedcoercive.com^
@@ -9474,6 +9490,7 @@ vkcdnservice.appspot.com^
 ||edutechlearners.com^
 ||edvfwlacluo.com^
 ||edvxygh.com^
+||edwmpt.com^
 ||ee625e4b1d.com^
 ||eebuksaicmirte.net^
 ||eecd.xyz^
@@ -9918,6 +9935,7 @@ vkcdnservice.appspot.com^
 ||erniphiq.com^
 ||ero-advertising.com^
 ||ero-cupid.com^
+||ero-vtuber.com^
 ||erofherlittleboy.com^
 ||erosionyonderviolate.com^
 ||erosyndc.com^
@@ -11731,6 +11749,7 @@ vkcdnservice.appspot.com^
 ||gladsince.com^
 ||glaghoowingauck.net^
 ||glaickoxaksy.com^
+||glaicmauxoah.net^
 ||glaidalr.net^
 ||glaidekeemp.net^
 ||glaidipt.net^
@@ -11823,6 +11842,7 @@ vkcdnservice.appspot.com^
 ||glochisprp.com^
 ||glodsaccate.com^
 ||glofodazoass.com^
+||gloghauzolso.xyz^
 ||glogoowo.net^
 ||glogopse.net^
 ||glokta.info^
@@ -12384,6 +12404,7 @@ vkcdnservice.appspot.com^
 ||gumlahdeprint.com^
 ||gummierhedera.life^
 ||gumon.site^
+||gunlockpepped.shop^
 ||gunwaleneedsly.com^
 ||gunzblazingpromo.com^
 ||guptetoowheerta.net^
@@ -13976,6 +13997,7 @@ vkcdnservice.appspot.com^
 ||inventionwere.com^
 ||inventionyolk.com^
 ||inventoryproducedjustice.com^
+||inventsloosely.com^
 ||investcoma.com^
 ||investigationsuperbprone.com^
 ||invibravaa.com^
@@ -13997,6 +14019,7 @@ vkcdnservice.appspot.com^
 ||ioniserpinones.com^
 ||ioniseryeaoman.shop^
 ||ionistkhaya.website^
+||ionogenbakutu.shop^
 ||iononetravoy.com^
 ||ionscormationwind.info^
 ||ionwindonpetropic.info^
@@ -14997,6 +15020,7 @@ vkcdnservice.appspot.com^
 ||kolerevprivatedqu.com^
 ||koleyo.xyz^
 ||kolkwi4tzicraamabilis.com^
+||kolleqasforsale.com^
 ||kologyrtyndwean.info^
 ||koluraishimtouw.net^
 ||komarchlupoid.com^
@@ -19500,6 +19524,7 @@ vkcdnservice.appspot.com^
 ||peasbishopgive.com^
 ||pebadu.com^
 ||pebbleoutgoing.com^
+||pecantinglytripod.com^
 ||pecialukizeias.info^
 ||pecifyspacing.com^
 ||peckrespectfully.com^
@@ -19933,6 +19958,7 @@ vkcdnservice.appspot.com^
 ||pjsos.xyz^
 ||pjtoaewbccpchu.com^
 ||pjvartonsbewand.info^
+||pjwfihbmwq.com^
 ||pk0grqf29.com^
 ||pk910324e.com^
 ||pkazd.xyz^
@@ -20707,6 +20733,7 @@ vkcdnservice.appspot.com^
 ||prplads.com^
 ||prpops.com^
 ||prre.ru^
+||prtawe.com^
 ||prtord.com^
 ||prtrackings.com^
 ||prtydqs.com^
@@ -20744,6 +20771,7 @@ vkcdnservice.appspot.com^
 ||pschentinfile.com^
 ||psclicks.com^
 ||psdn.xyz^
+||psedwm.com^
 ||pseeckotees.com^
 ||pseegroah.com^
 ||pseempep.com^
@@ -21383,6 +21411,7 @@ vkcdnservice.appspot.com^
 ||querysteer.com^
 ||quesid.com^
 ||questeelskin.com^
+||questioningcomplimentarypotato.com^
 ||questioningexperimental.com^
 ||questioningsanctifypuberty.com^
 ||questioningtosscontradiction.com^
@@ -23026,6 +23055,7 @@ vkcdnservice.appspot.com^
 ||scoopmaria.com^
 ||scootcomely.com^
 ||scopefile.com^
+||scopingrile.com^
 ||scorchstrung.com^
 ||score-feed.com^
 ||scoreasleepbother.com^
@@ -23082,6 +23112,7 @@ vkcdnservice.appspot.com^
 ||seaboblit.com^
 ||seafoodclickwaited.com^
 ||seafooddiscouragelavishness.com^
+||seafoodmesarch.top^
 ||sealeryshilpit.com^
 ||sealthatleak.com^
 ||seamanphaseoverhear.com^
@@ -23679,6 +23710,7 @@ vkcdnservice.appspot.com^
 ||siruperunlinks.com^
 ||sirwcniydewu.com^
 ||sisewepod.com^
+||sisfulylydevelope.com^
 ||sismoycheii.cc^
 ||sisteraboveaddition.com^
 ||sisterexpendabsolve.com^
@@ -27691,6 +27723,7 @@ vkcdnservice.appspot.com^
 ||wallowwholikedto.info^
 ||wallpapersfacts.com^
 ||wallstrads.com^
+||waltzersurvise.com^
 ||waltzprescriptionplate.com^
 ||wanalnatnwto.com^
 ||wanderingchimneypainting.com^
@@ -28281,6 +28314,7 @@ vkcdnservice.appspot.com^
 ||wmaoxrk.com^
 ||wmbbsat.com^
 ||wmccd.com^
+||wmcdct.com^
 ||wmcdpt.com^
 ||wmdzefk.com^
 ||wmeqobozarbjm.top^
@@ -28295,6 +28329,7 @@ vkcdnservice.appspot.com^
 ||wmptctl.com^
 ||wmpted.com^
 ||wmptengate.com^
+||wmptpr.com^
 ||wmpuem.com^
 ||wmtten.com^
 ||wmudsraxwj.xyz^
@@ -32395,7 +32430,6 @@ vkcdnservice.appspot.com^
 ||protect-x.com^
 ||protizer.ru^
 ||prscripts.com^
-||prtawe.com^
 ||psma01.com^
 ||psma03.com^
 ||ptclassic.com^
@@ -32795,7 +32829,6 @@ vkcdnservice.appspot.com^
 ||vs-api.voodoo-tech.io^
 ||psvpromo.psvgamestudio.com^
 -adx-*.rayjump.com^
-||reachableads-av.*.amazonaws.com^
 ||static.timetreeads.com^
 ||kfvjdvjzhddhc.com^
 ||zgzxs.weathercn.com^
@@ -33732,6 +33765,7 @@ vkcdnservice.appspot.com^
 ||gtm.taginstall.com^
 ||mdstats.info^
 ||site-config.com^
+||getui.net^
 ||getui.com^
 ||pixel.glimr.io^
 ||scripts.jixie.media^
@@ -37314,6 +37348,7 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||hikari.jiocinema.com^
 ||s.c-ctrip.com^
 ||ma-adx.ctrip.com^
 ||logs.mezmo.com^
@@ -40054,6 +40089,7 @@ inapps.appsflyersdk.com^
 !
 ! NOTE: Regular rules
 !
+||spider-tracker.xiaohongshu.com^
 ||tp2p.kg.qq.com^
 ||twns.p2ptun.qq.com^
 ||nstool.netease.com^
@@ -41007,6 +41043,7 @@ inapps.appsflyersdk.com^
 ||event-api.rdstation.com.br^
 ||event-logger.tagboard.com^
 ||event-service.letslinc.com^
+||eventcollector.mcf-prod.a.intuit.com^
 ||eventgateway.soundcloud.com^
 ||eventlog.chatlead.com^
 ||events-endpoint.pointandplace.com^
@@ -42420,6 +42457,19 @@ inapps.appsflyersdk.com^
 ! Source name: AdGuard Spanish/Portuguese filter ad servers
 ! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpanishFilter/sections/adservers.txt
 !
+!
+! This section contains the list of third-party advertising networks domains.
+! Note, that we only put rules that block full domains here and not URL parts (there's `general_url.txt` for that). Also, it must be domains that are used in a third-party context.
+!
+! Good: ||doubleclick.net^$third-party
+! Bad: /banner.jpg (should be in general_url.txt)
+! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
+!
+!
+! https://forum.adguard.com/index.php?threads/ivoox-com-podcasts-issues.29530/
+! ||addevweb.com^$third-party
+!
+||butlercdn.com^
 ||classic-bonus.com^
 ||assets.etus.digital^
 ||lyappreciat.info^
@@ -47383,8 +47433,8 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 12 Jan 2025 23:52 UTC+7
-! Version: 2501122352
+! Last modified: 16 Jan 2025 22:55 UTC+7
+! Version: 2501162255
 ! Blocked: 929 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -48254,9 +48304,9 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 12 Jan 2025 23:52 UTC+7
-! Version: 2501122352
-! Blocked: 4.695 rules
+! Last modified: 16 Jan 2025 22:53 UTC+7
+! Version: 2501162253
+! Blocked: 4.696 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -49874,6 +49924,7 @@ inapps.appsflyersdk.com^
 ||mcfa11.com^
 ||mcnodes.zapto.org^
 ||mcredit.vaynhanh-bankcredits.com^
+||me-fb.site^
 ||meetamate.site^
 ||member-gaarena.com^
 ||member-garena-lienquan.com^
@@ -52833,6 +52884,9 @@ inapps.appsflyersdk.com^
 ||51tongji.trafficmanager.net^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
+||lagzoids.com^
+||njnhzh.icu^
+||8u0.fun^
 ||ztgha.xyz^
 ||djsxm.xyz^
 ||0vc.fun^
@@ -52840,6 +52894,8 @@ inapps.appsflyersdk.com^
 ||ptrmnx.icu^
 ||iwpkp.xyz^
 ||4gu.fun^
+||krikului.com^
+||ed2.fun^
 ||zxpaa.xyz^
 ||etallkiq.com^
 ||tbyfz.xyz^
