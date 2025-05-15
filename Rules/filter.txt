@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-05-14T06:01:39.077Z
+! Last modified: 2025-05-15T06:01:36.853Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -22,6 +22,12 @@
 !
 !
 !
+||aucdn.net^
+||s.dt6ycu.com^
+||zipup.click^
+||cpmemes.cfd^
+||fileescd.cfd^
+||productdownload.pro^
 ||hrzn-nxt.com^
 ||madcheddar.net^
 ||tradehouse.media^
@@ -10494,6 +10500,7 @@ vkcdnservice.appspot.com^
 ||budgetastond.shop^
 ||budsminepatent.com^
 ||budvawshes.ru^
+||buffatopmost.com^
 ||buffethypothesis.com^
 ||buffetreboundfoul.com^
 ||bufmjknaeprvyd.com^
@@ -13230,6 +13237,7 @@ vkcdnservice.appspot.com^
 ||doanaudabu.net^
 ||doapovauma.net^
 ||doappcloud.com^
+||doapujoptude.net^
 ||doastaiwhouwouy.com^
 ||doblazikena.com^
 ||doblonsurare.shop^
@@ -17300,6 +17308,7 @@ vkcdnservice.appspot.com^
 ||hushpub.com^
 ||huskinessimminentstylus.com^
 ||huskypartydance.com^
+||hussaiphoa.com^
 ||hutlockshelter.com^
 ||hutoumseet.com^
 ||huwaczntu.com^
@@ -19664,6 +19673,7 @@ vkcdnservice.appspot.com^
 ||longinghospitalsurveyed.com^
 ||longmansuchcesu.info^
 ||loobilysubdebs.com^
+||loobyfleyed.com^
 ||loodauni.com^
 ||loohaiturigavik.net^
 ||loohiwez.net^
@@ -19904,6 +19914,7 @@ vkcdnservice.appspot.com^
 ||luxupcdnc.com^
 ||luyten-98c.com^
 ||lv9qr0g0.xyz^
+||lvbeybbrwvywq.top^
 ||lvhcqaku.com^
 ||lvlhmjerf.buzz^
 ||lvodomo.info^
@@ -20618,6 +20629,7 @@ vkcdnservice.appspot.com^
 ||mkeqmafk.com^
 ||mkhoj.com^
 ||mkjsqrpmxqdf.com^
+||mkocdauxf.com^
 ||ml0z14azlflr.com^
 ||ml314.com^
 ||mladedda.net^
@@ -27988,6 +28000,7 @@ vkcdnservice.appspot.com^
 ||tanhelpfulcuddle.com^
 ||tankleconflab.shop^
 ||tanothingfruiti.com^
+||tansazauksorg.com^
 ||tanzineshruti.shop^
 ||taoyinbiacid.com^
 ||taozgpkjzpdtgr.com^
@@ -30785,6 +30798,7 @@ vkcdnservice.appspot.com^
 ||witnessremovalsoccer.com^
 ||witnesssellingoranges.com^
 ||witskirifkab.com^
+||wittijtuno.com^
 ||wittomeinvokes.com^
 ||wittyanswer.pro^
 ||wiwarrkazg.com^
@@ -31124,6 +31138,7 @@ vkcdnservice.appspot.com^
 ||xceuzbaysacqp.global^
 ||xcinilwpypp.com^
 ||xciozdacgos.com^
+||xcipwuoft.com^
 ||xcowuheclvwryh.com^
 ||xctoquhnalqgn.vip^
 ||xcuffrzha.com^
@@ -35985,6 +36000,12 @@ vkcdnservice.appspot.com^
 ! test for CNAME
 ||kib.hu^
 !
+||adlink.wurl.com^
+||miqdigital.com^
+||imp.datafyhq.com^
+||getrockerbox.com^
+||tuhesok.com^
+||advmusic.com^
 ||track.iegcom.com^
 ||af.click.ru^
 ||treconeanalytics.com^
@@ -87435,6 +87456,7 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||metrics.cs.money^
 ||counter-mdpr.freetls.fastly.net^
 ||vortex-dual.hulu.com^
 ||alexa-hybrid-interaction-log-config-prod-na.s3.amazonaws.com^
@@ -93394,7 +93416,6 @@ inapps.appsflyersdk.com^
 ||xxyolk.com^
 ||mountrs.com^
 ||multibux.org^
-||advmusic.com^
 ||dtashjvcjswq.info^
 ||7nkbwdf1uq.ru^
 ||tiz.jsite.top^
@@ -97603,8 +97624,8 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 13 May 2025 16:33 UTC+7
-! Version: 2505131633
+! Last modified: 14 May 2025 16:18 UTC+7
+! Version: 2505141618
 ! Blocked: 875 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -98420,8 +98441,8 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 13 May 2025 09:24 UTC+7
-! Version: 2505130924
+! Last modified: 14 May 2025 16:18 UTC+7
+! Version: 2505141618
 ! Blocked: 4.750 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -103051,11 +103072,20 @@ inapps.appsflyersdk.com^
 ||51tongji.trafficmanager.net^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
+||qimsgi.icu^
+||akoo0515uis.com^
+||wyvw.cn^
+||niu05150jd.top^
+||fhl05150ps.com^
+||opkrerkaidf.com^
+||nalyxg.top^
+||niu05151jd.top^
 ||ssqxuy.icu^
 ||gmendanln.com^
 ||akoo0514uis.com^
 ||bkqa.cn^
 ||jnjslk.top^
+||ymgranque.com^
 ||upufkg.icu^
 ||bycrovalb.com^
 ||hur05130kns.com^
