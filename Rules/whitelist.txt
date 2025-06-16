@@ -2,6 +2,8 @@
 @@||aod.itunes.apple.com^$important
 @@||aod.itunes.g.aaplimg.com^$important
 @@||aod-cn-lb.itunes-apple.com.akadns.net^$important
+# Apple 防止一些奇怪的问题
+@@||apple.com^$important
 # iMessage 头像
 @@||supportmetrics.apple.com^$important
 # 夸克浏览器网络监测
@@ -60,6 +62,8 @@
 @@||alsc-buy2.ele.me^$important
 # 阿里云DNS网页
 @@||www.alidns.com^$important
+# 阿里云搜索结果
+@@||click.aliyun.com^$important
 # 搜狗输入法PC网页
 @@||sogoucdn.com^$important
 # 360极速浏览器网页下载
