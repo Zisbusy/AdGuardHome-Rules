@@ -2,8 +2,6 @@
 @@||aod.itunes.apple.com^$important
 @@||aod.itunes.g.aaplimg.com^$important
 @@||aod-cn-lb.itunes-apple.com.akadns.net^$important
-# Apple 防止一些奇怪的问题
-@@||apple.com^$important
 # iMessage 头像
 @@||supportmetrics.apple.com^$important
 # 夸克浏览器网络监测
