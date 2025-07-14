@@ -18,5 +18,5 @@ https://purge.jsdelivr.net/gh/Zisbusy/AdGuardHome-Rules@main/Rules/whitelist.txt
 https://purge.jsdelivr.net/gh/Zisbusy/AdGuardHome-Rules@main/Rules/blacklist.txt    
 
 ## Git加速地址
-https://mirror.ghproxy.com/
-https://ghp.ci/
+https://mirror.ghproxy.com/    
+https://ghp.ci/    
