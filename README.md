@@ -19,4 +19,4 @@ https://purge.jsdelivr.net/gh/Zisbusy/AdGuardHome-Rules@main/Rules/blacklist.txt
 
 ## Git加速地址
 https://mirror.ghproxy.com/    
-https://ghp.ci/    
+https://ghfast.top/    
